@@ -63,30 +63,4 @@
 
 ![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-<p align="center">
-<a href="https://github.com/X-R-404/Old-2005"><img title="Old-2005" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Old-2005&theme=chartreuse-dark"></a>
 
-<p align="center">
-<a href="https://github.com/X-R-404/Indoscript"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Indoscript&theme=highcontrast"></a>
-
-<p align="center">
-<a href="https://github.com/X-R-404/FILE-CLONING"><img title="FILE-CLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=FILE-CLONING&theme=midnight-purple"></a>
-
-<p align="center">
-<a href="https://github.com/X-R-404/ALL-IN-ONE"><img title="ALL-IN-ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=ALL-IN-ONE&theme=vision-friendly-dark"></a>
-
-
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/RootBox-424/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=RootBox-424&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Root Box GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/RootBox-424/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RootBox-424&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=RootBox-424&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="Root Box GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
-<br>
-
-<h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
