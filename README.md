@@ -12,6 +12,7 @@
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/RootBox-424"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RootBox-424&theme=monokai"></a>
 </p>
+<p"https://i.postimg.cc/mrSL22sj/Root-Box-Official.png"">
 <p align="center"> 
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/RootBox-424/count.svg" />
