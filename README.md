@@ -55,6 +55,27 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 <h2> <img width="25" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-stats.png" /><i> GitHub Stats :</i></h2>
 
+</p>
+
+![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
+<img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
+
+![Alt text](https://github.com/MRVIVEK-CODER/Decompiler/raw/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
+
+<p align="center">
+<a href="https://github.com/X-R-404/Old-2005"><img title="Old-2005" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Old-2005&theme=chartreuse-dark"></a>
+
+<p align="center">
+<a href="https://github.com/X-R-404/Indoscript"><img title="Indoscript" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=Indoscript&theme=highcontrast"></a>
+
+<p align="center">
+<a href="https://github.com/X-R-404/FILE-CLONING"><img title="FILE-CLONING" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=FILE-CLONING&theme=midnight-purple"></a>
+
+<p align="center">
+<a href="https://github.com/X-R-404/ALL-IN-ONE"><img title="ALL-IN-ONE" src="https://github-readme-stats.vercel.app/api/pin/?username=X-R-404&repo=ALL-IN-ONE&theme=vision-friendly-dark"></a>
+
+
 <table border="1">
   <tr>
     <td valign="top"><a href="https://github.com/RootBox-424/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=RootBox-424&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="Root Box GitHub stats"/></td> </a>
