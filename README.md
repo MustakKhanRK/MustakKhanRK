@@ -7,7 +7,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ROOT+BOX;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANK+YOU+EVERYONE;LOVE+U+ALL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=  I+AM+ROOT+BOX;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANK+YOU+EVERYONE;LOVE+U+ALL)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/RootBox-424"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RootBox-424&theme=monokai"></a>
@@ -16,10 +16,6 @@
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  <img src="https://profile-counter.glitch.me/RootBox-424/count.svg" />
 </p>
-
-![20200808_160757](https://raw.githubusercontent.com/RootBox-424/RootBox-424/main/Screenshot_20221104_013930.jpg)
-
-![20200808_160757](https://raw.githubusercontent.com/RootBox-424/RootBox-424/main/803a855baf7ab2eafe41a7dea3631ac9.jpg)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
@@ -72,5 +68,3 @@
 <br>
 
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-graph.png" /><i> GitHub Contribution Graph :</i></h2>
-
-[![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=RootBox-424&theme=react-dark&area=true&hide_border=true)](https://github.com/RootBox-424/github-readme-activity-graph)
