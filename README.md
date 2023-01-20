@@ -1,8 +1,5 @@
 
-
-- ![Profile views](https://gpvc.arturio.dev/RootBox-424)
 - [![GitHub followers](https://img.shields.io/github/followers/RootBox-424.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RootBox-424&label=Profile%20views&color=eb4d3d&style=flat-square" alt="RootBox-424" /> </p>
 </i></b></h3>
 <h3 align="center">
