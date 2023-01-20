@@ -7,7 +7,7 @@
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=  I+AM+ROOT+BOX;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANK+YOU+EVERYONE;LOVE+U+ALL)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I+AM+ROOT+BOX;+IT'S+NOT+A+JUST+NAME+BRO;IT'S+A+BRAND;THANK+YOU+EVERYONE;LOVE+U+ALL)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/RootBox-424"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=RootBox-424&theme=monokai"></a>
